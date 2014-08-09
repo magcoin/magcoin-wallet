@@ -1,0 +1,24 @@
+Megacoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Megacoin Wallet je prvá mobilná Megacoin aplikácia a preukázateľne aj najbezpečnejšia.
+
+FUNKCIE:
+
+• Nie je potrebná žiadna registrácia ani žiadny účet.
+• Zobrazenie zostatku Megacoinov v BTC alebo mBTC.
+• Prepočet hodnoty Megacoinov do viacerých cudzích mien.
+• Posielanie a prijímanie Megacoinov pomocou NFC, QR kódov alebo Megacoin adries.
+• Adresár pre často používané Megacoin adresy.
+• V offline režime je platba možná aj cez Bluetooth.
+• Notifikácie v stavovej lište pri prijatí Megacoinov.
+• Widget s celkovým zostatkom.
+
+
+Viac informácií o Megacoine
+http://www.megacoin.co.nz/
+
+Ak chcete prispieť do projektu Megacoin Wallet nájdete ho na adrese
+https://github.com/HashEngineering/megacoin-wallet
+
+
+Licencia: GPLv3
+Použitie len na vlastné riziko!
+http://www.gnu.org/licenses/gpl-3.0.en.html
