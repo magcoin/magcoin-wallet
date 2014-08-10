@@ -144,7 +144,7 @@
 	<string name="report_issue_dialog_mail_intent_chooser">שלח דוח באמצעות…</string>
 	<string name="about_title">על</string>
 	<string name="about_license_title">רישיון</string>
-	<string name="about_credits_bitcoinj_title">This app is using Megacoinj %s</string>
+	<string name="about_credits_bitcoinj_title">This app is using MagCoinj %s</string>
 	<string name="about_credits_zxing_title">"This app is using 'zxing'"</string>
 	<string name="about_credits_icon_title">"This app is using an icon by 'ohiwastedmylif'"</string>
 	<string name="about_author_twitter_title">Author at Twitter</string>

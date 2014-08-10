@@ -4,11 +4,11 @@
 	<string name="help_wallet">
 <![CDATA[
 		<p>
-			Ekranın üst sol köşesi diğer kişilerin size Megacoin yollayabilmek için bilmeleri seçilen sizin Megacoin adresinizi gösterir.
+			Ekranın üst sol köşesi diğer kişilerin size MagCoin yollayabilmek için bilmeleri seçilen sizin MagCoin adresinizi gösterir.
 			Adresi değiştirmek için dokunmak yeterlidir.
 		</p>
 		<p>
-			Sağdaki QR code Megacoin adresinizi içerir ve diğer kişiler tarafından taranmak için kullanılabilir.
+			Sağdaki QR code MagCoin adresinizi içerir ve diğer kişiler tarafından taranmak için kullanılabilir.
 			Daha büyük bir QR code görüntülemek için koda dokununuz.
 		</p>
 		<p>
@@ -23,7 +23,7 @@
 			Listeye filtre uygulamak için sağa ya da sola kaydırabilirsiniz.
 		</p>
 		<p>
-			Megacoin yollamak ya da talep etmek için etkinlik çubuğunda düğmelere dokunabilirsiniz.
+			MagCoin yollamak ya da talep etmek için etkinlik çubuğunda düğmelere dokunabilirsiniz.
 			Tercihler menüsünde daha fazla seçenek bulabilirsiniz.
 		</p>
 	]]>
@@ -31,18 +31,18 @@
 	<string name="help_request_coins">
 <![CDATA[
 		<p>
-			Bu diyaloğu kullanarak başka bir kişiden Megacoin talep edebilirsiniz (bu kişinin Megacoin Wallet uygulamasını cihazında kurmuş olması gerekir).
+			Bu diyaloğu kullanarak başka bir kişiden MagCoin talep edebilirsiniz (bu kişinin MagCoin Wallet uygulamasını cihazında kurmuş olması gerekir).
 		</p>
 		<p>
-			İlk olarak talep edilen Megacoin miktarını girebilirsiniz.
+			İlk olarak talep edilen MagCoin miktarını girebilirsiniz.
 		</p>
 		<p>
 			Ardından ya diğer kişi tarafından taranacak bir QR code oluşturmanız,
 			ya da uzaktaki bir kişiye etkinlik çubuğunda paylaş düğmesiyle talebinizi göndermeniz gerekir.
-			Bu kişinin Megacoin bağlantısını tıklaması gerekecektir.
+			Bu kişinin MagCoin bağlantısını tıklaması gerekecektir.
 		</p>
 		<p>
-			Her durumda diğer kişiye Megacoin göndermesi için tüm seçenekleri doldurulmuş bir diyalog gösterilecektir.
+			Her durumda diğer kişiye MagCoin göndermesi için tüm seçenekleri doldurulmuş bir diyalog gösterilecektir.
 			Kabul ederse tüm yapması gereken muameleyi yollamaktır.
 		</p>
 	]]>
@@ -50,16 +50,16 @@
 	<string name="help_send_coins">
 <![CDATA[
 		<p>
-			Megacoin gönderme prosedürünü başlattınız.
-			Buraya ya ana ekrandan ya da mobil ağ tarayıcınızda bir Megacoin bağlantısına tıklayarak geldiniz.
+			MagCoin gönderme prosedürünü başlattınız.
+			Buraya ya ana ekrandan ya da mobil ağ tarayıcınızda bir MagCoin bağlantısına tıklayarak geldiniz.
 		</p>
 		<p>
-			İlk olarak ödeme yapacağınız Megacoin adresini girmelisiniz.
+			İlk olarak ödeme yapacağınız MagCoin adresini girmelisiniz.
 			Adres defterinizde bilinen adreslere dayanılarak adres otomatik olarak tamamlanacaktır.
-			Ayrıca etkinlik çubuğunda QR düğmesine dokunarak Megacoin adresi ya da talebi içeren QR kodlarını tarayabilirsiniz.
+			Ayrıca etkinlik çubuğunda QR düğmesine dokunarak MagCoin adresi ya da talebi içeren QR kodlarını tarayabilirsiniz.
 		</p>
 		<p>
-			Bunun ardından o anda ne kadar Megacoin harcayabileceğinizi görüntüleyebilirsiniz.
+			Bunun ardından o anda ne kadar MagCoin harcayabileceğinizi görüntüleyebilirsiniz.
 			Varsa ana ekrandaki bakiye ile farklılıklar henüz teyit edilmemiştir ve dolayısıyla henüz harcanamaz.
 		</p>
 		<p>
@@ -67,7 +67,7 @@
 		</p>
 		<p>
 			Çevrimdışı olduğunuz sırada bir muamele girebilirsiniz.
-			Megacoin Wallet uygulamasının sonraki açılışında gönderilir.
+			MagCoin Wallet uygulamasının sonraki açılışında gönderilir.
 			Bir muamelenin mümkün olduğu kadar çabuk işlenmesini istiyorsanız bağlantınızın iyi olduğundan (mesela WLAN ile).
 		</p>
 		<p>
@@ -80,20 +80,20 @@
 	<string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Megacoinlerinizin güvenliği hakkında önemli noktalar:</b>
+			<b>MagCoinlerinizin güvenliği hakkında önemli noktalar:</b>
 		</p>
 		<p>
-			Megacoin cüzdanınızdaki Megacoinler cihazınızda saklanır.
-			<b>Cihazınızı kaybederseniz Megacoinlerinizi de kaybedersiniz.</b>
+			MagCoin cüzdanınızdaki MagCoinler cihazınızda saklanır.
+			<b>Cihazınızı kaybederseniz MagCoinlerinizi de kaybedersiniz.</b>
 			Tıpkı fiziki cüzdanınızdaki para gibi.
 		</p>
 		<p>
-			<b>Megacoin Wallet</b> uygulamasını kaldırmadan önce (ya da uygulama verilerini/cihazınızı sıfırlamadan önce) <b>tüm Megacoinlerinizi başka bir cüzdana aktarınız</b>.
-			Kalan tüm Megacoinler kaybolacaktır.
+			<b>MagCoin Wallet</b> uygulamasını kaldırmadan önce (ya da uygulama verilerini/cihazınızı sıfırlamadan önce) <b>tüm MagCoinlerinizi başka bir cüzdana aktarınız</b>.
+			Kalan tüm MagCoinler kaybolacaktır.
 		</p>
 		<p>
 			<b>Muameleler geri alınamaz</b>.
-			Megacoinlerinizi yanlış bir adrese yollarsanız, bunları geri almak için alıcıyı tanımanız ve onun geri yollamayı kabul etmeniz dışında hiçbir yol yoktur.
+			MagCoinlerinizi yanlış bir adrese yollarsanız, bunları geri almak için alıcıyı tanımanız ve onun geri yollamayı kabul etmeniz dışında hiçbir yol yoktur.
 		</p>
 		<p>
 			<b>Android cihazınızı güvenli kullanın!</b>
@@ -102,7 +102,7 @@
 		</p>
 		<p>
 			Riski sınırlayın!
-			<b>Megacoin Wallet uygulamasını sadece küçük tutarlar için kullanınız</b>.
+			<b>MagCoin Wallet uygulamasını sadece küçük tutarlar için kullanınız</b>.
 		</p>
 	]]>
 	</string>

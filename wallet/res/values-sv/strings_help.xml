@@ -4,11 +4,11 @@
 	<string name="help_wallet">
 <![CDATA[
 		<p>
-			I den övre vänstra delen av skärmen kan du se den Megacoin adress som andra behöver för att kunna skicka Megacoins till dig.
-			Tryck med fingret på adressen för att skaffa dig en ny Megacoin adress.
+			I den övre vänstra delen av skärmen kan du se den MagCoin adress som andra behöver för att kunna skicka MagCoins till dig.
+			Tryck med fingret på adressen för att skaffa dig en ny MagCoin adress.
 		</p>
 		<p>
-			QR koden till höger innehåller din Megacoin adress och kan scannas av de som vill skicka dig Megacoins.
+			QR koden till höger innehåller din MagCoin adress och kan scannas av de som vill skicka dig MagCoins.
 			Tryck med fingret på QR koden så visas en större version av den.
 		</p>
 		<p>
@@ -23,7 +23,7 @@
 			Dra med fingret åt vänster eller höger för att filtrera listan.
 		</p>
 		<p>
-			Du kan sända eller ta emot Megacoins genom att trycka med fingret på knapparna i aktivitetslistan.
+			Du kan sända eller ta emot MagCoins genom att trycka med fingret på knapparna i aktivitetslistan.
 			Fler val är möjliga i menyn.
 		</p>
 	]]>
@@ -31,43 +31,43 @@
 	<string name="help_request_coins">
 <![CDATA[
 		<p>
-			Med denna dialog kan du ta emot Megacoins från någon annan (som redan har Megacoin Wallet installerad på sin telefon).
+			Med denna dialog kan du ta emot MagCoins från någon annan (som redan har MagCoin Wallet installerad på sin telefon).
 		</p>
 		<p>
-			Först anger du hur många Megacoins du vill att de skickar.
+			Först anger du hur många MagCoins du vill att de skickar.
 		</p>
 		<p>
 			Sedan kan den andra personen scanna QR koden.
-			Eller så använder du "Dela" knappen i aktivitetslistan för att skicka din uppmaning att skicka Megacoins.
-			Den andra personen behöver sedan bara klicka på den Megacoin URL du skickat.
+			Eller så använder du "Dela" knappen i aktivitetslistan för att skicka din uppmaning att skicka MagCoins.
+			Den andra personen behöver sedan bara klicka på den MagCoin URL du skickat.
 		</p>
 		<p>
 			Sedan kommer den andra personen att få se en dialogruta där alla fält redan är ifyllda.
-			Om han eller hon sedan accapterar transaktionen så skickas Megacoins till dig.
+			Om han eller hon sedan accapterar transaktionen så skickas MagCoins till dig.
 		</p>
 	]]>
 	</string>
 	<string name="help_send_coins">
 <![CDATA[
 		<p>
-			Du har påbörjat skickandet av Megacoins.
-			Du kom hit endera från huvudskärmen eller genom att klicka på en Megacoin URL i din webbläsare.
+			Du har påbörjat skickandet av MagCoins.
+			Du kom hit endera från huvudskärmen eller genom att klicka på en MagCoin URL i din webbläsare.
 		</p>
 		<p>
-			Ange först vilken Megacoin adress du vill skicka till.
+			Ange först vilken MagCoin adress du vill skicka till.
 			Adressen kan automatiskt fyllas i om den börjar med någon av adresserna i din adressbok.
-			Du kan också scanna en QR kod innehållande en Megacoin adress, genom att trycka på QR knappen i aktivitetslistan.
+			Du kan också scanna en QR kod innehållande en MagCoin adress, genom att trycka på QR knappen i aktivitetslistan.
 		</p>
 		<p>
-			Sedan kan du se hur många Megacoins du för tillfället kan skicka.
+			Sedan kan du se hur många MagCoins du för tillfället kan skicka.
 			Om det antalet skiljer sig från det som visas på huvudskärmen, så beror det på hittills obekräftade överföringar som du ännu inte får använda.
 		</p>
 		<p>
-			Slutligen anger du hur många Megacoins du vill skicka vill betalar.
+			Slutligen anger du hur många MagCoins du vill skicka vill betalar.
 		</p>
 		<p>
 			Du kan skapa en transaktion även om du inte är online.
-			Den kommer att skickas nästa gång Megacoin Wallet startas.
+			Den kommer att skickas nästa gång MagCoin Wallet startas.
 			Om du vill att en transaktion ska processas så fort som möjligt, se till att ha bra koppling till internet (exempelvis ett WLAN).
 		</p>
 		<p>
@@ -80,20 +80,20 @@
 	<string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Några ord om säkerhet och Megacoins:</n>
+			<b>Några ord om säkerhet och MagCoins:</n>
 		</p>
 		<p>
-			Dina Megacoins i Megacoin Wallet sparas på din Android telefon.
-			<b>Om du tappar bort din telefon, så tappar du bort dina Megacoins.</b>
+			Dina MagCoins i MagCoin Wallet sparas på din Android telefon.
+			<b>Om du tappar bort din telefon, så tappar du bort dina MagCoins.</b>
 			Precis som pengar i din vanliga plånbok.
 		</p>
 		<p>
-			<b>Innan du avinstallerar Megacoin Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina Megacoins till en annan plånbok</b>.
-			Alla kvarvarande Megacoins kommer att försvinna.
+			<b>Innan du avinstallerar MagCoin Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina MagCoins till en annan plånbok</b>.
+			Alla kvarvarande MagCoins kommer att försvinna.
 		</p>
 		<p>
 			<b>Transaktioner kan inte stoppas</b>.
-			Efter att du skickat Megacoins finns det inget sätt att få dem tillbaka, annat än om du vet vem mottagaren är, och han/hon skickar dem tillbaka.
+			Efter att du skickat MagCoins finns det inget sätt att få dem tillbaka, annat än om du vet vem mottagaren är, och han/hon skickar dem tillbaka.
 		</p>
 		<p>
 			<b>Se till att skydda din telefon!</b>
@@ -102,7 +102,7 @@
 		</p>
 		<p>
 			Utsätt dig inte för onödig risk!
-			<b>Använd bara Megacoin Wallet med mindre belopp</b> för daglig användning.
+			<b>Använd bara MagCoin Wallet med mindre belopp</b> för daglig användning.
 		</p>
 	]]>
 	</string>

@@ -17,7 +17,7 @@
 		android:smallScreens="true" />
 
 
-	<application android:label="Megacoin in-app payment sample" >
+	<application android:label="MagCoin in-app payment sample" >
 		<activity
 			android:name="de.schildbach.wallet.integration.sample.SampleActivity"
 			android:theme="@android:style/Theme.Light" >
